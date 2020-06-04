@@ -19,7 +19,7 @@ The outcomes of this research are to assist families in bringing self-awareness 
 There are 3 notebooks available here to answer the above tackling questions. 
 Each of the notebooks is show the way to answer the questions and how we used the data that relates to these questions.
 # Results:
-The outcomes of this research you will find it here.
+The outcomes of this research you will find it here : https://medium.com/@fo0oze18/knowledge-attitude-and-practices-toward-febrile-seizures-e59180f931bc.
 
 # Licensing, Authors, and Acknowledgements:
 I would thank King Fahad Hospital of University -Al-Khobar City-  for give us the database.
